@@ -1,4 +1,5 @@
 # Unix Shell
+![alt tag](https://github.com/Denisolt/Unix_Shell/edit/master/shell.png)</br>
 ## Project Scope:
 Unix Shell based on the tutorial of Stephen Brennan
 This is a very basic implementation that consists of:
